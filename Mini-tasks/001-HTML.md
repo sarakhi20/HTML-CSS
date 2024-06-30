@@ -7,11 +7,12 @@
 ```HTML
     <html lang="en">
     <head>
-        <title>Document
+        <title>Document </title>
+ </head>
             <body>
                 guvi
-        </title>
-    </head>
+       
+   
     <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
         <div>
